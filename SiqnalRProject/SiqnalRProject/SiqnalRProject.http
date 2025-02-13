@@ -1,0 +1,6 @@
+@SiqnalRProject_HostAddress = http://localhost:5256
+
+GET {{SiqnalRProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
